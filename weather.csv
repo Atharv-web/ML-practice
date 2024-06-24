@@ -1,0 +1,11 @@
+outlook,Temp,Humidity,Windy,Play
+sunny,,,FALSE,no
+sunny,80,90,,no
+overcast,83,86,,yes
+rainy,nan,96,FALSE,yes
+rainy,68,80,FALSE,yes
+rainy,65,70,,no
+overcast,64,65,TRUE,yes
+sunny,nan,95,FALSE,no
+,69,70,FALSE,yes
+,,80,,yes
